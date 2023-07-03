@@ -1,0 +1,20 @@
+{
+  "name": "rm97807_cap9_fase4",
+  "version": "0.1.0",
+  "description": "Exercício capítulo 9 fase 4",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Frigatto",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5",
+    "frigattos": "^2.1.0",
+    "jquery": "^3.7.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16"
+  }
+}
